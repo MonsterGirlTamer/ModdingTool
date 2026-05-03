@@ -1,7 +1,7 @@
 
 
 ![](https://raw.githubusercontent.com/IL-Modding-Tool/Public-Resources/master/ModdingTool-wide.webp)
-# Introducing hooh Modding Tools
+# Introducing hooh Modding Tools (MGT update coming soon)
 
 ## What is this?
 
